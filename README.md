@@ -15,3 +15,7 @@ Homework-02
 ![Ненормалізована таблиця](non-normalized.png)
 
 ![Результат нормалізації](normalization_result.png)
+
+![EER-Diagram](ERR-diagram.png)
+
+![DB schema](schema.png)
